@@ -1,5 +1,3 @@
-#Hello
-
 #This script contains thermodynamic functions to be used in engineering models. 
 
 #This function outputs the boiling temperature of water as a function of pressure.
